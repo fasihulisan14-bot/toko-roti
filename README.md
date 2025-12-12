@@ -40,6 +40,8 @@ Provider / GetX untuk state management
 Firebase (opsional: autentikasi atau database)
 
 SQLite (opsional: penyimpanan lokal)
+<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/d38250a2-c712-4c3d-b0d7-8562e0c7c4fc" />
+
 
 📱 Target Pengguna
 
