@@ -1,16 +1,48 @@
-# flutter_application_1
+Flutter Toko Roti adalah aplikasi mobile yang dirancang untuk membantu pengelolaan penjualan dan inventaris pada sebuah toko roti. Aplikasi ini dibuat menggunakan Flutter sebagai frontend dan dapat terhubung dengan backend API atau database untuk menyimpan data produk.
 
-A new Flutter project.
+Aplikasi ini memudahkan pemilik toko dalam mengelola berbagai aspek operasional seperti daftar produk roti, harga, stok, dan transaksi penjualan sehingga proses bisnis menjadi lebih cepat dan efisien.
 
-## Getting Started
+✨ Fitur Utama
 
-This project is a starting point for a Flutter application.
+Manajemen Produk Roti
+Tambah, edit, dan hapus produk roti seperti roti tawar, roti manis, pastry, dan lainnya.
 
-A few resources to get you started if this is your first Flutter project:
+Informasi Stok
+Menampilkan stok barang secara real-time untuk menghindari kehabisan stok.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Manajemen Harga
+Mengatur harga produk dengan mudah.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pencarian Produk
+Mencari produk dengan cepat berdasarkan nama atau kategori.
+
+UI Modern dan Responsif
+Tampilan dibuat menggunakan Flutter dengan desain clean dan mudah digunakan.
+
+🎯 Tujuan Pengembangan
+
+Mempermudah pengelolaan data toko roti.
+
+Meningkatkan efisiensi penjualan.
+
+Mengurangi risiko human error dalam pencatatan.
+
+Memberikan pengalaman pengguna yang cepat dan intuitif.
+
+🛠️ Teknologi yang Digunakan
+
+Flutter (Dart)
+
+HTTP / REST API (opsional jika terhubung ke backend)
+
+Provider / GetX untuk state management
+
+Firebase (opsional: autentikasi atau database)
+
+SQLite (opsional: penyimpanan lokal)
+
+📱 Target Pengguna
+
+Pemilik dan karyawan toko roti.
+
+UMKM yang membutuhkan aplikasi mobile sederhana untuk pengelolaan stok dan penjualan.
